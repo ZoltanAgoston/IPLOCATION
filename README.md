@@ -1,1 +1,1 @@
-# IPLOCATION
+![IP Lookup Logo](IPLookup.jpg)
